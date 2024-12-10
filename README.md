@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shashikala Moola</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+- 🌱 I’m currently learning **Django frameworks**
+
+- 💬 Ask me about **sql,python,html,css,javascript**
+
 - 📫 How to reach me **moolasrilekhareddy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
